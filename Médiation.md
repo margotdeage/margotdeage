@@ -33,6 +33,5 @@ title: Médiation scientifique
 
 2017 - [Gagner... et perdre sa réputation : comprendre le harcèlement au collège.](https://www.youtube.com/embed/QChT5wCes94) Objet de Recherche. Vidéo du service audiovisuel de Sorbonne Université. Septembre.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QChT5wCes94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
