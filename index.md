@@ -3,7 +3,7 @@ layout: page
 title: A propos
 ---
 
-<img alt="Margot Déage" src="margotdé (2).JPG"  width="18%" height="18%" /> 
+<img alt="Margot Déage" src="Margot déage.jpeg"  width="18%" height="18%" /> 
 
 deage.m@gmail.com
  
